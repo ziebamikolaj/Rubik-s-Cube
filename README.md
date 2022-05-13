@@ -1,2 +1,2 @@
 # Rubik's Cube
- Working rubik's cube!
+WORK IN PROGRESS
